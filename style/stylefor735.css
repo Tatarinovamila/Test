@@ -1,0 +1,65 @@
+body {
+	font-size: 12px;
+}
+.styleFofSector {
+	margin: 15px 10px;
+}
+#nav-conteiner li a{
+	padding: 25px 0px;
+	
+}
+#nav-conteiner li a .icons {
+	display: none;
+}
+#wrapper {
+	background: #f5f5f5 url(../image/fill-white.png) 10px 250px no-repeat;
+	background-size: 120% 20%;
+}
+
+#wrapper .nestedItem li ul {
+	margin-left: 20px; 
+}
+#wrapper h1 {
+	margin: 0px 20px 0px;
+}
+
+#circlePercent {
+	float: none;
+	margin: 0px auto;
+}
+div.rightGrafComent {
+	margin-left: 0px;
+	padding: 0px;
+}
+
+.leftGrafComent {
+	margin-right: 0px;
+	padding: 0px;
+}
+#humanStat {
+	float: none;
+	padding: 0px;
+	text-align: center; 
+	
+}
+#humanStat img {
+	width: 260px;
+	height: auto;
+}
+
+h2 {
+	font-size: 1.88em;
+	padding: 10px 20px;
+	margin: 10px 0px;
+}
+#wrapper .footnote {   
+	color: #818084;
+	font-size: 0.7em; 
+	font-family: 'Lato', sans-serif;
+	margin-top: 10px;
+}
+
+
+sup {
+	font-size: 0.7em;
+}

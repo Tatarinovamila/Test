@@ -1,0 +1,23 @@
+#nav-conteiner {
+	font-size: 0.60em;
+}
+.styleFofSector {
+	margin: 30px 90px;
+}
+#wrapper .nestedItem li ul {
+	margin-left: 50px; 
+}
+#wrapper h1 {
+	margin: 0px 90px 0px;
+}
+
+.leftGrafComent {
+	margin-right: 300px;
+	padding: 0px;
+}
+#humanStat img {
+	padding-top: 20px; 
+	width: 260px;
+	height: auto;
+
+}
